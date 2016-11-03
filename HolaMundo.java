@@ -1,5 +1,6 @@
 /**
- * Hello World 
+ * Hello World
+ * Another test
  */
 
 public class HolaMundo {
@@ -9,6 +10,7 @@ public class HolaMundo {
     }
 
     void sayHello() {
+        // Test
         System.out.println("Hola Mundo!");
     }
 }
