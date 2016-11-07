@@ -11,6 +11,6 @@ public class HolaMundo {
 
     void sayHello() {
         // Test another thing
-        System.out.println("Hola Mundo!");
+        System.out.println("Hola Diana!");
     }
 }
