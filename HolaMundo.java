@@ -10,7 +10,7 @@ public class HolaMundo {
     }
 
     void sayHello() {
-        // Test
+        // Test another thing
         System.out.println("Hola Mundo!");
     }
 }
