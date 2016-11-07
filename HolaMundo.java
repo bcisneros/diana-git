@@ -12,5 +12,6 @@ public class HolaMundo {
     void sayHello() {
         // Test another thing
         System.out.println("Hola Diana!");
+        System.out.println("Bienvenida al Tuto de Git");
     }
 }
